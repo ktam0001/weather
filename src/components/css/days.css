@@ -1,0 +1,39 @@
+.forecast-header {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    padding-top: 20px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.table-container {
+    padding-top: 50px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.wIcon{
+  margin : 10px;
+}
+.h-button{
+  margin : 10px;
+  margin-left: 20px;
+  padding : 5px;
+}
+.tdicon{
+  align-items: baseline;
+}
